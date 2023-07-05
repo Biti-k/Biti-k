@@ -5,7 +5,7 @@
 
 <br>
 
-- 📫 How to reach me **diegoarmandodluca@gmail.com**
+- 📫 How to reach me: **diegoarmandodluca@gmail.com**
 <br>
 
 <br>
