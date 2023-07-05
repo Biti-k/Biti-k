@@ -27,6 +27,6 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql" width="40" height="40" /> </a> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="40" height="40" /> </a> <a href="" target="_blank" rel="noreferrer"><img src="![image](https://github.com/Biti-k/Biti-k/assets/126298024/24723d76-84ae-4801-97cc-91a42fe28921)" alt="Angular" width="40" height="40"></a>
+      alt="nodejs" width="40" height="40" /> </a> <a href="" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/shield-large.svg" alt="Angular" width="40" height="40"></a>
 
 <br>
