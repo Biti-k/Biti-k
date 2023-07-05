@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diego De Luca</h1>
-<h3 align="center">Web developer🌟.</h3>
+<h3 align="center">Programmer specialized in web development🌟</h3>
 
 <br>
 
