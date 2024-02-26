@@ -26,4 +26,5 @@
       alt="javascript" width="40" height="40" /> </a><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql" width="40" height="40" /> </a> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+     <a href='https://www.php.net/' target="_blank" rel="noreferrer"><img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png">
 <br>
