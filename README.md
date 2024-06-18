@@ -1,4 +1,4 @@
-![image](https://github.com/Biti-k/Biti-k/assets/126298024/89d1213e-46ae-44ea-bedc-d245cc356b45)<h1 align="center">Hi 👋, I'm Diego De Luca</h1>
+<h1 align="center">Hi 👋, I'm Diego De Luca</h1>
 <h3 align="center">Programmer specialized in web development🌟</h3>
 
 <br>
