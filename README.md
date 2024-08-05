@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **diegoarmandodluca@gmail.com**
 - <strong><code>Graduated in Web Development</code></strong> (Proffesional Formation)
-- I also like coding <strong><code>games</code></strong> sometimes. :D
+- I also do <strong><code>game development</code></strong> sometimes. :D
 <br>
 
 <br>
