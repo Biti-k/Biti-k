@@ -6,9 +6,10 @@
 <br>
 
 - 📫 How to reach me: **diegoarmandodluca@gmail.com**
-- <strong><code>Web Development</code></strong> (Proffesional Formation) 
+- <strong><code>Graduated in Web Development</code></strong> (Proffesional Formation) 
 <br>
 
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
+[![My Skills](https://skillicons.dev/icons?i=react,js,java,c,c#,php,tailwind,laravel&perline=3)](https://skillicons.dev)
