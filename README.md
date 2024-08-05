@@ -13,4 +13,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,java,c,csharp,php,tailwind,laravel&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,java,c,cs,php,tailwind,laravel&perline=3)](https://skillicons.dev)
